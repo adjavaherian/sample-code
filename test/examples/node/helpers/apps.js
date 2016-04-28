@@ -1,4 +1,5 @@
 if (process.env.DEV) {
+  exports.iosHotpads = "/Users/4m1r/Desktop/HotPads/ios/build/Hotpads.app";
   exports.iosTestApp = "sample-code/apps/TestApp/build/release-iphonesimulator/TestApp.app";
   exports.iosWebviewApp = "sample-code/apps/WebViewApp/build/release-iphonesimulator/WebViewApp.app";
   exports.iosUICatalogApp = "sample-code/apps/UICatalog/build/release-iphonesimulator/UICatalog.app";
